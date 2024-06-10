@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vasanth-BN
-- 👀 I’m interested in Coding 
+- 👀 I write code in Java, C# and Java Script (Spring boot, .Net, Next-Js, Typescript, Tailwind) 
 - 🌱 I’m currently learning B.E/CSE
 - 💞️ I’m looking to collaborate on Reputed IT companies 
 - 📫 How to reach me 
